@@ -6,6 +6,7 @@ module.exports = {
 		/**
 		 * JSX style
 		 */
+		'react/prefer-stateless-function': 'off',
 		'react/display-name': 0,         // https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/display-name.md
 		'react/jsx-boolean-value': 2,    // https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-boolean-value.md
 		'react/jsx-quotes': 0, // [2, 'double'], // https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-quotes.md
